@@ -1,0 +1,9 @@
+// Setup MQTT Broker
+const char* mqtt_server = "<YOUR-MQTT-BROKER-URL>";
+const uint16_t mqtt_port = <YOUR-MQTT-BROKER-PORT>; 
+const char* MQTT_TOPIC_SUB = "YOUR-MQTT-TOPIC-SUB";
+const char* MQTT_TOPIC_LWT = "YOUR-MQTT-TOPIC-LWT";
+
+// SSID & Password for Wi-Fi
+const char* ssid = "YOUR-WIFI-SSID";
+const char* password = "YOUR-WIFI-PASSWORD";
